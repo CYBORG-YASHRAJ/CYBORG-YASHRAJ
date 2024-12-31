@@ -70,4 +70,25 @@ Hi, I'm **Yashraj Pahuja** – a technology enthusiast passionate about creating
 
 <div align="center">
   <a href="https://instagram.com/yashraj_pahuja2006">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-bad
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yashraj-pahuja-28a34b325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashrajpahuja9999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🚀 **What’s Next?**
+I'm currently working on:
+- 🧑‍💻 Enhancing my full-stack capabilities.
+- 🤖 Developing AI-powered solutions for real-world applications.
+- 🌟 Exploring open-source contributions to collaborate and grow!
+
+---
+
+### 💡 **Fun Fact**
+"Did you know? I balance my passion for technology with **content creation**, leveraging social platforms to share my journey and inspire others!"
