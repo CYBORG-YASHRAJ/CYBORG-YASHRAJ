@@ -1,30 +1,62 @@
-# Welcome to My GitHub Profile! 👋
+# 🌟 Welcome to My GitHub Profile! 🌟  
 
-![Profile Banner](https://user-images.githubusercontent.com/banner-link)
+![Banner Animation](https://user-images.githubusercontent.com/placeholder/banner.gif) <!-- Replace with your custom banner -->
 
-Hi, I'm **Yashraj** 🌟  
-🚀 A passionate **AI/ML enthusiast**, **IoT innovator**, and budding **web developer**.  
-🎓 Currently pursuing **BTech CSE with AI/ML specialization** and working on impactful projects.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Yashraj+Pahuja;Aspiring+Full-Stack+Developer;Passionate+about+AI+and+ML;Tech+Enthusiast+and+Innovator" alt="Typing Animation" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 **About Me**
+Hi, I'm **Yashraj Pahuja** – a technology enthusiast passionate about creating innovative solutions with **AI, Machine Learning, IoT, and Full-Stack Web Development**. I'm currently pursuing a degree in **CSE with AI/ML specialization** and striving to build impactful projects.
+
+🌱 **Currently Learning**: React, Node.js, and advanced AI models.  
+🎯 **Goal**: To leverage technology to solve real-world problems.
+
+---
+
+## 🛠️ **Tech Stack**
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 **Skills and Expertise**
+
+### **Specializations**
+- **Machine Learning & AI**: Regression, Classification, Neural Networks, and Natural Language Processing.
+- **Data Science**: Data visualization, Pandas, NumPy, and Matplotlib.
+- **Web Development**: Full-stack projects using Flask, React, Node.js, and Tailwind CSS.
+- **Software Development**: Strong foundations in Python, Java, and C++.
+
+---
+
+## 🌟 **Achievements**
+
+- 🥇 **Led AI Bootcamp**: Conducted an AI workshop in school, inspiring future innovators.
+- 🏆 **IoT Project Recognition**: Awarded for **IoT Cargo Drone**, integrating e-commerce and healthcare services.
+- 🚀 **10+ Inter-School Competitions**: Participated in and won multiple robotics and tech-based events.
+
+---
+
+## 📈 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYBORG-YASHRAJ&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -34,54 +66,32 @@ Hi, I'm **Yashraj** 🌟
 
 ---
 
-## 🌟 Projects
+## 🌐 **Connect with Me**
 
-### 🚁 **IoT-Based Cargo Drone**
-- Assists in **e-commerce deliveries** and functions as an **air ambulance**.
-- Integrates **IoT sensors** with **AI technology** for real-time data and efficiency.
-
-### 🍴 **Food Store Website**
-- A Python-based website showcasing food pictures and famous restaurants.
-- Includes a **search option** for quick access to restaurant details.
-
-### 🕹️ **Battle Bots**
-- Award-winning robots created for competitive events.
-- Designed for efficiency, speed, and adaptability.
-
----
-
-## 🏆 Achievements
-- 🎖️ Led an **AI bootcamp** in school to inspire students.
-- 🥇 Received awards for **innovation and creativity** in interschool competitions.
-- 🧑‍🔬 Created several **IoT and robotics projects**, such as **smart car keys** and **solar rovers**.
-
----
-
-## 🌐 Connect with Me
 <div align="center">
-  <a href="https://instagram.com/cyborg_yashraj">
+  <a href="https://instagram.com/yashraj_pahuja2006">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"
+  <a href="https://linkedin.com/in/yashraj-pahuja-28a34b325/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yashrajpahuja9999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🔭 What's Next?
+## 🚀 **What’s Next?**
 I'm currently working on:
-- 🔨 **Expanding my web development skills** with Flask and Django.
-- 🤖 Creating an **IoT-based healthcare solution**.
-- 🌱 Exploring **prompt engineering** for advanced AI applications.
+- 🧑‍💻 Enhancing my full-stack capabilities.
+- 🤖 Developing AI-powered solutions for real-world applications.
+- 🌟 Exploring open-source contributions to collaborate and grow!
 
 ---
 
-### 🌟 Fun Fact
-Did you know? I combine my **content creation skills** as an Instagram influencer with my technical expertise to make technology **fun and engaging**!
+### 💡 **Fun Fact**
+"Did you know? I balance my passion for technology with **content creation**, leveraging social platforms to share my journey and inspire others!"
 
 ---
 
