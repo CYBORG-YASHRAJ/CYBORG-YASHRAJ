@@ -1,16 +1,44 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**CYBORG-YASHRAJ/CYBORG-YASHRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Hello! I'm Yashraj, a passionate developer and creator.**  
+🚀 **Exploring AI/ML, IoT, and full-stack web development.**  
+🎯 **Driven to innovate and solve real-world problems with technology.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+### 🌟 **Projects**
+#### 🚀 [IoT-Based Cargo Drone](https://github.com/your-repo-link)
+- Assists in **e-commerce deliveries** and functions as an **air ambulance**.
+- Combines IoT sensors and AI for efficiency.
+
+#### 🍴 [Food Store Website](https://github.com/your-repo-link)
+- A user-friendly platform to explore food pictures and restaurants with search functionality.
+
+#### 🕹️ Battle Bots
+- Award-winning bots designed for innovation and creativity in competitions.
+
+---
+
+### 📈 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CYBORG-YASHRAJ&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CYBORG-YASHRAJ&theme=dark" alt="Streak Stats" />
+</div>
+
+---
+
+### 🌐 **Connect with Me**
+- 📸 Instagram: [@cyborg_yashraj](https://instagram.com/cyborg_yashraj)
+- 🔗 LinkedIn: [Yashraj's Profile](https://linkedin.com/in/yourprofile)
+
