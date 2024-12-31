@@ -42,3 +42,7 @@
 - 📸 Instagram: [@cyborg_yashraj](https://instagram.com/cyborg_yashraj)
 - 🔗 LinkedIn: [Yashraj's Profile](https://linkedin.com/in/yourprofile)
 
+[![Yashraj's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CYBORG-YASHRAJ&theme=react-dark)](https://github.com/CYBORG-YASHRAJ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBORG-YASHRAJ&repo=your-repo-name&theme=dark)](https://github.com/CYBORG-YASHRAJ/your-repo-name)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
