@@ -91,4 +91,4 @@ I'm currently working on:
 ---
 
 ### 💡 **Fun Fact**
-"Did you know? I balance my passion for technology with **content creation**, leveraging social platforms to share my journey and inspire others!"
+"Did you know? I enjoy developing innovative technology in IoT and integrating AI to empower machines with exceptional intelligence"
