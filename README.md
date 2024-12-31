@@ -1,48 +1,87 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub Profile! 👋
 
-🌟 **Hello! I'm Yashraj, a passionate developer and creator.**  
-🚀 **Exploring AI/ML, IoT, and full-stack web development.**  
-🎯 **Driven to innovate and solve real-world problems with technology.**
+![Profile Banner](https://user-images.githubusercontent.com/banner-link)
 
----
-
-### 🛠️ **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+Hi, I'm **Yashraj** 🌟  
+🚀 A passionate **AI/ML enthusiast**, **IoT innovator**, and budding **web developer**.  
+🎓 Currently pursuing **BTech CSE with AI/ML specialization** and working on impactful projects.
 
 ---
 
-### 🌟 **Projects**
-#### 🚀 [IoT-Based Cargo Drone](https://github.com/your-repo-link)
-- Assists in **e-commerce deliveries** and functions as an **air ambulance**.
-- Combines IoT sensors and AI for efficiency.
+## 🛠️ Tech Stack
 
-#### 🍴 [Food Store Website](https://github.com/your-repo-link)
-- A user-friendly platform to explore food pictures and restaurants with search functionality.
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🕹️ Battle Bots
-- Award-winning bots designed for innovation and creativity in competitions.
+### **Frameworks & Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-### 📈 **GitHub Stats**
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CYBORG-YASHRAJ&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CYBORG-YASHRAJ&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CYBORG-YASHRAJ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CYBORG-YASHRAJ&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBORG-YASHRAJ&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### 🌐 **Connect with Me**
-- 📸 Instagram: [@cyborg_yashraj](https://instagram.com/cyborg_yashraj)
-- 🔗 LinkedIn: [Yashraj's Profile](https://linkedin.com/in/yourprofile)
+## 🌟 Projects
 
-[![Yashraj's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CYBORG-YASHRAJ&theme=react-dark)](https://github.com/CYBORG-YASHRAJ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBORG-YASHRAJ&repo=your-repo-name&theme=dark)](https://github.com/CYBORG-YASHRAJ/your-repo-name)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🚁 **IoT-Based Cargo Drone**
+- Assists in **e-commerce deliveries** and functions as an **air ambulance**.
+- Integrates **IoT sensors** with **AI technology** for real-time data and efficiency.
+
+### 🍴 **Food Store Website**
+- A Python-based website showcasing food pictures and famous restaurants.
+- Includes a **search option** for quick access to restaurant details.
+
+### 🕹️ **Battle Bots**
+- Award-winning robots created for competitive events.
+- Designed for efficiency, speed, and adaptability.
+
+---
+
+## 🏆 Achievements
+- 🎖️ Led an **AI bootcamp** in school to inspire students.
+- 🥇 Received awards for **innovation and creativity** in interschool competitions.
+- 🧑‍🔬 Created several **IoT and robotics projects**, such as **smart car keys** and **solar rovers**.
+
+---
+
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://instagram.com/cyborg_yashraj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🔭 What's Next?
+I'm currently working on:
+- 🔨 **Expanding my web development skills** with Flask and Django.
+- 🤖 Creating an **IoT-based healthcare solution**.
+- 🌱 Exploring **prompt engineering** for advanced AI applications.
+
+---
+
+### 🌟 Fun Fact
+Did you know? I combine my **content creation skills** as an Instagram influencer with my technical expertise to make technology **fun and engaging**!
+
+---
 
