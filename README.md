@@ -1,149 +1,126 @@
-<!-- ════════════════════════ HERO ════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:6a00f4,70:a855f7,100:00d9ff&height=200&section=header&text=YASHRAJ%20PAHUJA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20systems%20that%20ship.&descSize=18&descAlignY=60" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:6a00f4,70:a855f7,100:00d9ff&height=220&section=header&text=YASHRAJ%20PAHUJA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20IoT%20Innovator&descSize=16&descAlignY=58" width="100%" alt="banner"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=~%2F%24+whoami+%E2%86%92+software+developer+%40+growth+twin+technologies;~%2F%24+now+%E2%86%92+building+GrowthCharters+from+scratch;~%2F%24+stack+%E2%86%92+agentic+ai+%C2%B7+rag+%C2%B7+fastapi+%C2%B7+next.js+%C2%B7+esp32;~%2F%24+mission+%E2%86%92+turning+ideas+into+intelligent+solutions" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Intelligent+Solutions+%F0%9F%9A%80;Building+GrowthCharters+%E2%80%94+AI+Career+Intelligence;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+IoT" alt="typing"/>
 
   <br/><br/>
 
-  <samp>
-    <a href="#about">about</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#work">work</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#projects">projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#stack">stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#stats">stats</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contact">contact</a>
-  </samp>
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
-  <a href="mailto:yashraj9.contact@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=a855f7" alt="Email"/></a>
-  <a href="https://instagram.com/yashraj_pahuja2006"><img src="https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=00d9ff" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=CYBORG-YASHRAJ&style=flat-square&color=6a00f4&label=visitors" alt="visitors"/>
+  <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yashraj9.contact@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/yashraj_pahuja2006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=CYBORG-YASHRAJ&style=for-the-badge&color=blueviolet&label=VIEWS" alt="views"/>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ════════════════════════ ABOUT ════════════════════════ -->
-## <samp>about</samp>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
-```console
-yashraj@cyborg:~$ neofetch
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding"/>
 
-        ██╗   ██╗ ██████╗         yashraj @ gurugram.in
-        ╚██╗ ██╔╝ ██╔══██╗        ─────────────────────────────────────────
-         ╚████╔╝  ██████╔╝        role      software developer · growth twin technologies
-          ╚██╔╝   ██╔═══╝         now       GrowthCharters — AI career intelligence
-           ██║    ██║                       10+ months · built from scratch · in production
-           ╚═╝    ╚═╝             degree    b.tech cse (ai/ml) · 9.45 cgpa · dean's list
-                                  minor     ai & data science · iit indore
-                                  focus     agentic ai · llms · rag · backend architecture
-                                  hardware  esp32 · raspberry pi · mqtt · ble
-                                  wins      3× hackathons · neo4j certified · gcp trainee
-                                  uptime    shipping code since day one
+- 🚀 **Software Developer** @ Growth Twin Technologies
+- 🧬 Building **GrowthCharters** — AI Career Intelligence Platform *(from scratch, 10+ months)*
+- 🎓 **B.Tech CSE (AI/ML)** · 9.45 CGPA · Dean's List — KRMU
+- 📡 Minor in **AI & Data Science** — IIT Indore
+- 🧠 **Agentic AI · LLMs · RAG · Backend Architecture · IoT**
+- 🏆 **3× Hackathon Winner** · Neo4j Certified
+- 🔬 Ex ML Research Intern @ **Krea University** · Ex Web Dev @ **NeedCFO**
 
-yashraj@cyborg:~$ _
-```
+<br clear="right"/>
 
-<samp>I architect backends and AI pipelines for a living, wire up microcontrollers for fun,
-and believe the best portfolio is software that's actually running in production.</samp>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<br/>
-
-<!-- ════════════════════════ WORK ════════════════════════ -->
-## <samp>work</samp>
-
-<table>
-  <tr>
-    <td><samp>2025 → now</samp></td>
-    <td><b>Software Developer</b> · Growth Twin Technologies <sub>(started under Kaizen Training Solutions)</sub><br/>
-    <sub>Sole focus: <b>GrowthCharters</b> — designed & built the backend and AI architecture from zero. Microservices, agentic AI workflows, RAG pipelines, LLM integrations, n8n orchestration. FastAPI · GraphQL · PostgreSQL · Next.js.</sub></td>
-  </tr>
-  <tr>
-    <td><samp>jun–aug 2025</samp></td>
-    <td><b>ML Research Intern</b> · IFMR GSB, Krea University<br/>
-    <sub>EEG-based emotion recognition on SEED-IV with PyTorch — 85%+ accuracy across 10,000+ signal samples, 20+ engineered frequency-domain features.</sub></td>
-  </tr>
-  <tr>
-    <td><samp>jun–jul 2025</samp></td>
-    <td><b>Web Development Intern</b> · ASA NeedCFO Finvisors<br/>
-    <sub>Shipped <a href="https://needcfo.in">needcfo.in</a> in React + Node.js — 99% uptime, 30% faster loads.</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ════════════════════════ PROJECTS ════════════════════════ -->
-## <samp>projects</samp>
-
-<table>
-  <tr>
-    <th align="left"><samp>status</samp></th>
-    <th align="left"><samp>project</samp></th>
-    <th align="left"><samp>what it is</samp></th>
-    <th align="left"><samp>built with</samp></th>
-  </tr>
-  <tr>
-    <td><samp>🟣 in prod</samp></td>
-    <td><b>GrowthCharters</b><br/><sub>⭐ flagship</sub></td>
-    <td>AI career intelligence platform — predicts industry fitment, maps skill gaps, generates personalized learning paths. Resume intelligence + career analytics, powered by agentic AI.</td>
-    <td><sub>next.js · fastapi · postgresql · graphql · llms · rag · n8n · microservices</sub></td>
-  </tr>
-  <tr>
-    <td><samp>🟢 built</samp></td>
-    <td><b><a href="https://github.com/CYBORG-YASHRAJ/pill-dose-buddy">PillDoseBuddy</a></b></td>
-    <td>AI + IoT smart medicine dispenser — real-time Firebase sync, NLP voice control at 90% accuracy, smart alerts for 20+ users.</td>
-    <td><sub>esp32 · firebase · mqtt · ble · nlp</sub></td>
-  </tr>
-  <tr>
-    <td><samp>🔵 building</samp></td>
-    <td><b>EcoCred</b></td>
-    <td>AI-powered smart waste ecosystem — YOLO-vision smart dustbins reward recycling with eco credits; live IoT bin telemetry + route optimization cuts collection fuel 40–60%.</td>
-    <td><sub>esp32-cam · yolo · tflite · flutter · firebase · node.js · maps api</sub></td>
-  </tr>
-  <tr>
-    <td><samp>🟢 live</samp></td>
-    <td><b><a href="https://itme.krmangalam.edu.in">ITME Journal</a></b></td>
-    <td>Academic journal platform with peer-review workflow & automated editorial alerts — cut editorial time 35% for 100+ faculty.</td>
-    <td><sub>next.js · supabase · postgresql · rest</sub></td>
-  </tr>
-  <tr>
-    <td><samp>🟢 live</samp></td>
-    <td><b><a href="https://ideas.krmangalam.edu.in">IDEAS 3.0</a></b></td>
-    <td>University innovation platform connecting students, academia and industry.</td>
-    <td><sub>next.js · react · mongodb · node.js</sub></td>
-  </tr>
-</table>
-
-<div align="right"><samp><sub>🟣 production &nbsp; 🟢 shipped/live &nbsp; 🔵 in development</sub></samp></div>
-
-<br/>
-
-<!-- ════════════════════════ STACK ════════════════════════ -->
-## <samp>stack</samp>
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-  <samp><sub>languages</sub></samp><br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" alt="languages"/><br/><br/>
-
-  <samp><sub>ai / ml</sub></samp><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="ai"/><br/><br/>
-
-  <samp><sub>web & backend</sub></samp><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,graphql,tailwind&theme=dark" alt="web"/><br/><br/>
-
-  <samp><sub>data & infra</sub></samp><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,aws,docker,githubactions,vercel,git&theme=dark" alt="infra"/><br/><br/>
-
-  <samp><sub>hardware</sub></samp><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="iot"/><br/><br/>
-
-  <samp>+ agentic ai · langchain · rag · llm pipelines · n8n · prompt engineering · esp32 · mqtt · neo4j</samp>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🧬 GrowthCharters — AI Career Intelligence Platform</h3>
+      <i>⭐ Flagship · Growth Twin Technologies · In Production</i>
+      <p>Predicts industry fitment · Maps skill gaps · Personalized learning paths</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic%20AI-a855f7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-6a00f4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLMs-00d9ff?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💊 PillDoseBuddy</h3>
+      <p>AI + IoT smart medicine dispenser — NLP voice control, real-time sync</p>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/CYBORG-YASHRAJ/pill-dose-buddy"><img src="https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>♻️ EcoCred</h3>
+      <p>AI smart dustbins that reward recycling — YOLO vision, 40–60% fuel savings</p>
+      <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO-a855f7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔵%20In%20Development-0d1117?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📚 ITME Journal</h3>
+      <p>Academic peer-review platform for 100+ KRMU faculty</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <br/><br/>
+      <a href="https://itme.krmangalam.edu.in"><img src="https://img.shields.io/badge/🌐%20Live-6a00f4?style=for-the-badge"/></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>💡 IDEAS 3.0</h3>
+      <p>University innovation platform — students × academia × industry</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      <a href="https://ideas.krmangalam.edu.in"><img src="https://img.shields.io/badge/🌐%20Live-6a00f4?style=for-the-badge"/></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ════════════════════════ STATS ════════════════════════ -->
-## <samp>stats</samp>
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,fastapi,graphql&theme=dark" alt="stack-1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,postgres,mongodb,supabase,firebase,aws,docker&theme=dark" alt="stack-2"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,git,tailwind,arduino,raspberrypi&theme=dark" alt="stack-3"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Agentic%20AI-a855f7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6a00f4?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LLMs-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
@@ -156,6 +133,10 @@ and believe the best portfolio is software that's actually running in production
 
   <br/><br/>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=CYBORG-YASHRAJ&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="trophies"/>
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYBORG-YASHRAJ/CYBORG-YASHRAJ/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBORG-YASHRAJ/CYBORG-YASHRAJ/output/github-snake.svg"/>
@@ -164,51 +145,48 @@ and believe the best portfolio is software that's actually running in production
 
 </div>
 
-<details>
-  <summary><samp>&nbsp;more analytics ↓</samp></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBORG-YASHRAJ&bg_color=0d1117&color=c9d1d9&line=a855f7&point=00d9ff&area=true&area_color=6a00f4&hide_border=true&custom_title=contribution%20graph" width="100%" alt="activity"/>
-    <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=CYBORG-YASHRAJ&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="trophies"/>
-  </div>
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<br/>
-
-<!-- ════════════════════════ WINS ════════════════════════ -->
-## <samp>wins</samp>
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+## 🏆 Achievements
 
 <div align="center">
-  <samp>
-    🥇 hackemon — 2nd prize (₹40k) &nbsp;·&nbsp; 🥇 vihaan 8.0 — winner (₹10k) &nbsp;·&nbsp; 🥈 roborush — 2nd prize<br/><br/>
-    🧩 neo4j certified database engineer &nbsp;·&nbsp; ☁️ google cloud skills boost &nbsp;·&nbsp; 🎓 dean's list · 9.45 cgpa<br/><br/>
-    🎤 techsphere 2025 workshop lead (50+ students) &nbsp;·&nbsp; 📊 hack4kaggle organizer &nbsp;·&nbsp; 🚩 intellithon'26 lead
-  </samp>
+
+<table>
+  <tr>
+    <td align="center" width="33%">🥇<br/><b>Hackemon</b><br/><sub>2nd Prize · ₹40,000</sub></td>
+    <td align="center" width="33%">🥇<br/><b>Vihaan 8.0</b><br/><sub>Winner · ₹10,000</sub></td>
+    <td align="center" width="33%">🥈<br/><b>RoboRush</b><br/><sub>2nd Prize</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧩<br/><b>Neo4j Certified</b><br/><sub>Database Engineer</sub></td>
+    <td align="center">🎓<br/><b>Dean's List</b><br/><sub>9.45 CGPA</sub></td>
+    <td align="center">☁️<br/><b>Google Cloud</b><br/><sub>Skills Boost</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎤<br/><b>TechSphere 2025</b><br/><sub>Workshop Lead · 50+ students</sub></td>
+    <td align="center">📊<br/><b>Hack4Kaggle</b><br/><sub>Organizer</sub></td>
+    <td align="center">🚩<br/><b>Intellithon'26</b><br/><sub>Lead Organizer</sub></td>
+  </tr>
+</table>
+
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ════════════════════════ CONTACT ════════════════════════ -->
-## <samp>contact</samp>
-
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
 <div align="center">
 
-  <samp>
-    open to collabs on ai systems, agentic workflows & iot —<br/>
-    fastest way to reach me ↓
-  </samp>
+## 🤝 Let's Build Something Intelligent
 
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"><img src="https://img.shields.io/badge/linkedin/yashraj--pahuja-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:yashraj9.contact@gmail.com"><img src="https://img.shields.io/badge/yashraj9.contact@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email"/></a>
+  <a href="mailto:yashraj9.contact@gmail.com"><img src="https://img.shields.io/badge/Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   <br/><br/>
 
-  <samp><sub>"turning ideas into intelligent solutions"</sub></samp>
+  <i>"Turning Ideas into Intelligent Solutions."</i>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6a00f4,100:0d0221&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6a00f4,100:0d0221&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
