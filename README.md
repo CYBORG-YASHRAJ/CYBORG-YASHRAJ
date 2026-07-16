@@ -59,44 +59,13 @@ class YashrajPahuja:
                 deep into GrowthCharters"
 ```
 
-- 🔭 **Currently building:** [GrowthCharters](#-now-building--growthcharters) — AI-powered Career Intelligence Platform (from scratch, 10+ months)
+- 🔭 **Currently building:** **GrowthCharters** — AI-powered Career Intelligence Platform (from scratch, 10+ months)
 - 🧠 **Researching:** Agentic AI workflows, RAG pipelines & LLM orchestration
 - ⚡ **Previously:** ML Research Intern @ Krea University · Web Dev Intern @ NeedCFO
 - 🏆 **3× Hackathon Winner** · Neo4j Certified · TechSphere 2025 Workshop Lead
 - 💬 Ask me about **FastAPI, Next.js, LangChain, n8n, ESP32, PyTorch**
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════ NOW BUILDING ═══════════════════════════ -->
-## 🚀 Now Building — GrowthCharters
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <h3>🧬 AI Career Intelligence Platform</h3>
-      <p><i>Product of <b>Growth Twin Technologies</b>, Gurugram — Core Developer Team, built from scratch over 10+ months</i></p>
-      <p>Predicts industry fitment · Identifies skill gaps · Recommends personalized learning paths · Resume Intelligence</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLMs-a855f7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Agentic%20AI-00d9ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-6a00f4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microservices-0d1117?style=flat-square"/>
-      </p>
-      <p>⚙️ <b>My scope:</b> AI Architecture · Backend Engineering · NLP & RAG Pipelines · LLM Integrations · n8n Automation · Production APIs</p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
@@ -139,6 +108,26 @@ class YashrajPahuja:
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <h3>🧬 GrowthCharters — AI Career Intelligence Platform</h3>
+      <p><i>🚀 Flagship · Product of <b>Growth Twin Technologies</b>, Gurugram — Core Developer Team, built from scratch over 10+ months</i></p>
+      <p>Predicts industry fitment · Identifies skill gaps · Personalized learning paths · Resume Intelligence · Career Analytics</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLMs-a855f7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Agentic%20AI-00d9ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RAG-6a00f4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-0d1117?style=flat-square"/>
+      </p>
+      <p>⚙️ <b>My scope:</b> AI Architecture · Backend Engineering · NLP & RAG Pipelines · LLM Integrations · n8n Automation · Production APIs</p>
+      <img src="https://img.shields.io/badge/Status-In%20Production-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3>💊 PillDoseBuddy</h3>
       <p><i>AI + IoT Smart Medicine Dispenser</i></p>
@@ -154,6 +143,23 @@ class YashrajPahuja:
       </a>
     </td>
     <td width="50%" align="center">
+      <h3>♻️ EcoCred</h3>
+      <p><i>AI-Powered Smart Waste Management Ecosystem</i></p>
+      <p>AI Smart Dustbins (YOLO waste detection) · Eco Credit rewards wallet · Live IoT bin monitoring · Smart route optimization with <b>40–60% fuel savings</b> · Carbon credit marketplace</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-a855f7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+      </p>
+      <p><sub>User App · Smart Dustbin · Admin Dashboard · Driver Portal — one connected ecosystem for cleaner, smarter cities</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>📚 ITME Academic Journal System</h3>
       <p><i>Peer-review platform for 100+ KRMU faculty</i></p>
       <p>Authentication · Peer-review workflow · Automated editorial alerts · <b>35% less editorial time</b></p>
@@ -166,8 +172,6 @@ class YashrajPahuja:
       <br/>
       <a href="https://itme.krmangalam.edu.in"><img src="https://img.shields.io/badge/🌐%20Live-itme.krmangalam.edu.in-6a00f4?style=for-the-badge&labelColor=0d1117"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3>💡 IDEAS 3.0</h3>
       <p><i>University Innovation Platform</i></p>
@@ -180,19 +184,6 @@ class YashrajPahuja:
       </p>
       <br/>
       <a href="https://ideas.krmangalam.edu.in"><img src="https://img.shields.io/badge/🌐%20Live-ideas.krmangalam.edu.in-6a00f4?style=for-the-badge&labelColor=0d1117"/></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔌 ESP32 IoT Lab</h3>
-      <p><i>Embedded systems & IoT experiments</i></p>
-      <p>Sensor networks · Real-time telemetry · Edge automation with ESP32 + C++</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-00d9ff?style=flat-square"/>
-      </p>
-      <a href="https://github.com/CYBORG-YASHRAJ/Esp32-iot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CYBORG-YASHRAJ&repo=Esp32-iot&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=00d9ff&border_color=30363d" alt="Esp32-iot"/>
-      </a>
     </td>
   </tr>
 </table>
