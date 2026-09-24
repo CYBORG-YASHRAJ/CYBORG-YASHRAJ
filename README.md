@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Gurugram%2C%20India-141b24?style=flat-square&amp;logo=googlemaps&amp;logoColor=67D8EF" alt="Gurugram, India" />
 <img src="https://img.shields.io/badge/AI%20%C2%B7%20Full%20Stack%20%C2%B7%20IoT-141b24?style=flat-square&amp;logo=codeforces&amp;logoColor=67D8EF" alt="AI · Full Stack · IoT" />
 <img src="https://img.shields.io/badge/9.45%20CGPA%20%C2%B7%20Dean%E2%80%99s%20Honor%20List-141b24?style=flat-square&amp;logo=googlescholar&amp;logoColor=67D8EF" alt="9.45 CGPA · Dean’s Honor List" />
+<img src="https://komarev.com/ghpvc/?username=CYBORG-YASHRAJ&amp;label=PROFILE+VIEWS&amp;color=2796ad&amp;style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -181,21 +182,20 @@
 
 **Community** — Led AI and web development workshops for **50+ students** at TechSphere 2025. Organized **Hack4Kaggle**, KRMU's inaugural Kaggle competition, and served as lead organizer for **Intellithon'26**.
 
-## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `06` Building in public
+## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `06` Engineering report
 
 <div align="center">
 
-<a href="https://github.com/CYBORG-YASHRAJ?tab=followers"><img src="https://img.shields.io/github/followers/CYBORG-YASHRAJ?style=flat-square&amp;color=67D8EF&amp;labelColor=141b24&amp;logo=github" alt="GitHub followers" /></a>
-<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories"><img src="https://img.shields.io/badge/Browse%20repositories%20%E2%86%97-141b24?style=flat-square&amp;logo=github&amp;logoColor=67D8EF" alt="Browse repositories ↗" /></a>
+<img src="./assets/engineering-report.svg" width="100%" alt="Engineering report: 85%+ EEG classification accuracy on over 10,000 samples; 35% less editorial time for over 100 faculty; 30% faster website load time; three hackathon awards. Contact: yashraj9.contact@gmail.com." />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYBORG-YASHRAJ&amp;theme=github_dark" width="100%" alt="GitHub contribution activity for CYBORG-YASHRAJ" />
+<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCYBORG-YASHRAJ&amp;query=%24.public_repos&amp;label=PUBLIC%20REPOS&amp;style=flat-square&amp;color=67D8EF&amp;labelColor=141b24&amp;logo=github" alt="Public GitHub repositories" /></a>
+<a href="https://github.com/CYBORG-YASHRAJ?tab=followers"><img src="https://img.shields.io/github/followers/CYBORG-YASHRAJ?style=flat-square&amp;color=67D8EF&amp;labelColor=141b24&amp;logo=github" alt="GitHub followers" /></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYBORG-YASHRAJ&amp;theme=github_dark" width="49%" alt="Languages across public repositories" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CYBORG-YASHRAJ&amp;theme=github_dark" width="49%" alt="Languages by public commits" />
+<br/><br/>
 
-<sub>Activity cards reflect public GitHub data and are served by GitHub Profile Summary Cards.</sub>
+<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories">Explore the repositories ↗</a> &nbsp;·&nbsp; <a href="mailto:yashraj9.contact@gmail.com">yashraj9.contact@gmail.com</a>
 
 </div>
 
