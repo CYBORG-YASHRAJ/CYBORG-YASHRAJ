@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 390" role="img" aria-labelledby="title desc">
+<title id="title">Yashraj's developer terminal</title>
+<desc id="desc">AI and full-stack developer. Focus: agentic AI, RAG, backend systems, and IoT. Building GrowthCharters.</desc>
+<style>
+:root{--bg:#0d1117;--panel:#141b24;--line:#293644;--ink:#e6edf3;--muted:#a3b1bf;--accent:#67d8ef}
+text{font:13px Consolas,monospace;fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--accent)}.frame{fill:var(--bg);stroke:var(--line)}.bar{fill:var(--panel)}
+.wire{fill:none;stroke:var(--line)}.packet{fill:none;stroke:var(--accent);stroke-dasharray:8 80;animation:flow 6s linear infinite}
+.cursor{fill:var(--accent);animation:blink 1.8s steps(2,end) infinite}.row{animation:reveal 8s ease infinite}.r2{animation-name:second}.r3{animation-name:third}
+@keyframes flow{to{stroke-dashoffset:-176}}@keyframes blink{50%{opacity:0}}
+@keyframes reveal{0%,8%{opacity:.25}18%,90%{opacity:1}100%{opacity:.25}}
+@keyframes second{0%,24%{opacity:.25}34%,90%{opacity:1}100%{opacity:.25}}
+@keyframes third{0%,40%{opacity:.25}50%,90%{opacity:1}100%{opacity:.25}}
+@media(prefers-reduced-motion:reduce){.packet,.cursor,.row{animation:none}}
+</style>
+<rect class="frame" x="1" y="1" width="398" height="388" rx="12"/>
+<path class="bar" d="M13 2h374q11 0 11 11v29H2V13Q2 2 13 2"/>
+<g fill="#526577"><circle cx="20" cy="22" r="4"/><circle cx="35" cy="22" r="4"/><circle cx="50" cy="22" r="4"/></g>
+<text class="muted" x="76" y="27" font-size="11">yashraj@dev ~ /profile</text>
+<text class="accent" x="24" y="76">$ whoami --stack</text>
+<text x="24" y="105">AI &amp; full-stack developer</text>
+<g class="row"><text class="muted" x="24" y="146">01</text><text x="56" y="146">Next.js → FastAPI → data</text></g>
+<g class="row r2"><text class="muted" x="24" y="177">02</text><text x="56" y="177">RAG → LLMs → agentic AI</text></g>
+<g class="row r3"><text class="muted" x="24" y="208">03</text><text x="56" y="208">ESP32 → MQTT → real world</text></g>
+<path class="wire" d="M24 237H376"/><path class="packet" d="M24 237H376"/>
+<text class="accent" x="24" y="274">$ building --now</text>
+<text x="24" y="305">GrowthCharters</text>
+<text class="muted" x="24" y="331">AI career intelligence</text>
+<text class="accent" x="24" y="366">$</text><rect class="cursor" x="42" y="353" width="8" height="16"/>
+</svg>
