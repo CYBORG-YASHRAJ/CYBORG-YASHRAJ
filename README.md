@@ -182,20 +182,19 @@
 
 **Community** — Led AI and web development workshops for **50+ students** at TechSphere 2025. Organized **Hack4Kaggle**, KRMU's inaugural Kaggle competition, and served as lead organizer for **Intellithon'26**.
 
-## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `06` Engineering report
+## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `06` GitHub stats report
 
 <div align="center">
 
-<img src="./assets/engineering-report.svg" width="100%" alt="Engineering report: 85%+ EEG classification accuracy on over 10,000 samples; 35% less editorial time for over 100 faculty; 30% faster website load time; three hackathon awards. Contact: yashraj9.contact@gmail.com." />
+<img src="./assets/github-stats.svg" width="100%" alt="GitHub statistics for CYBORG-YASHRAJ: contributions in the last year, public repositories, stars, followers, contribution heatmap, languages by original repository, and monthly activity." />
 
 <br/><br/>
 
-<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCYBORG-YASHRAJ&amp;query=%24.public_repos&amp;label=PUBLIC%20REPOS&amp;style=flat-square&amp;color=67D8EF&amp;labelColor=141b24&amp;logo=github" alt="Public GitHub repositories" /></a>
-<a href="https://github.com/CYBORG-YASHRAJ?tab=followers"><img src="https://img.shields.io/github/followers/CYBORG-YASHRAJ?style=flat-square&amp;color=67D8EF&amp;labelColor=141b24&amp;logo=github" alt="GitHub followers" /></a>
+<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories">View repositories ↗</a> &nbsp;·&nbsp; <a href="https://github.com/CYBORG-YASHRAJ?tab=overview">View contributions ↗</a>
 
 <br/><br/>
 
-<a href="https://github.com/CYBORG-YASHRAJ?tab=repositories">Explore the repositories ↗</a> &nbsp;·&nbsp; <a href="mailto:yashraj9.contact@gmail.com">yashraj9.contact@gmail.com</a>
+<sub>From public GitHub data · refreshed daily by GitHub Actions · original repo languages exclude forks</sub>
 
 </div>
 
