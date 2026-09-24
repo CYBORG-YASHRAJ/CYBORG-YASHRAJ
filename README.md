@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/yashraj-pahuja-28a34b325/"><img src="https://img.shields.io/badge/LinkedIn-141b24?style=flat-square&amp;logo=linkedin&amp;logoColor=67D8EF" alt="LinkedIn" /></a>
 <a href="mailto:yashraj9.contact@gmail.com"><img src="https://img.shields.io/badge/Email-141b24?style=flat-square&amp;logo=gmail&amp;logoColor=67D8EF" alt="Email" /></a>
 <a href="https://github.com/CYBORG-YASHRAJ?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20code-141b24?style=flat-square&amp;logo=github&amp;logoColor=67D8EF" alt="Explore my code" /></a>
+<a href="https://github.com/OWASP/Nest/pull/3837"><img src="https://img.shields.io/badge/OWASP%20Nest-merged%20PR%20%233837-141b24?style=flat-square&amp;logo=github&amp;logoColor=67D8EF" alt="OWASP Nest merged pull request 3837" /></a>
 <a href="https://instagram.com/yashraj_pahuja2006"><img src="https://img.shields.io/badge/Instagram-141b24?style=flat-square&amp;logo=instagram&amp;logoColor=67D8EF" alt="Instagram" /></a>
 
 <br/><br/>
@@ -182,7 +183,20 @@
 
 **Community** — Led AI and web development workshops for **50+ students** at TechSphere 2025. Organized **Hack4Kaggle**, KRMU's inaugural Kaggle competition, and served as lead organizer for **Intellithon'26**.
 
-## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `06` GitHub stats report
+## <img src="./assets/icons/code.svg" width="26" height="26" alt="" /> &nbsp; `06` Open source
+
+<table>
+<tr>
+<td valign="top">
+<h3>OWASP Nest · Corporate Supporters carousel</h3>
+<p><b>Merged contribution</b> · <a href="https://github.com/OWASP/Nest/pull/3837">PR #3837 ↗</a> · <a href="https://github.com/OWASP/Nest/issues/3800">Resolved issue #3800 ↗</a></p>
+<p>Revamped the sponsor carousel so logos remain visible in dark mode and appear at consistent sizes. Corrected the infinite-scroll distance for a seamless loop, added hover-to-pause for clickable logos, and updated the component tests.</p>
+<p><sub>REACT · UI ACCESSIBILITY · MOTION · TESTS</sub></p>
+</td>
+</tr>
+</table>
+
+## <img src="./assets/icons/chart.svg" width="26" height="26" alt="" /> &nbsp; `07` GitHub stats report
 
 <div align="center">
 
